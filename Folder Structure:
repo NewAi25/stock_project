@@ -1,0 +1,8 @@
+investment_recommender/
+├── app.py
+├── data/
+│   ├── sp500.csv
+│   └── esg_scores.csv
+├── topsis.py
+├── utils.py
+└── requirements.txt
